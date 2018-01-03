@@ -24,7 +24,7 @@ add 'D:\Python 3.5\Scripts' into PATH(environment variable)
 download pip and go into '..\pip-9.0.1\pip-9.0.1'  and install 'setup' : 'python setup.py install',then 'pip list' to show the version
 
 
-download numpy,matplotlib,PIL and copy these's file into 'D:\Python 3.5\Scripts'
+download numpy,matplotlib,PIL and copy these's file into 'D:\Python 3.5\Scripts'  (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 
 then execute the command ：
